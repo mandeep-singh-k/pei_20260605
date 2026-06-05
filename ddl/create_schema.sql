@@ -1,0 +1,5 @@
+USE ecommerce_db;
+
+CREATE SCHEMA IF NOT EXISTS pem_raw;
+CREATE SCHEMA IF NOT EXISTS pem_refined;
+CREATE SCHEMA IF NOT EXISTS pem_curated;
