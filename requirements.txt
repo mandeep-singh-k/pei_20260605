@@ -1,9 +1,8 @@
-## Core
+# Core
 pyspark==3.5.1
 
-# Excel support
+# Excel support (local Python)
 openpyxl==3.1.2
-com.crealytics:spark-excel_2.12:0.13.7
 
 # Testing
 pytest==8.2.1
