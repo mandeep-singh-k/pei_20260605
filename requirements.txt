@@ -1,4 +1,4 @@
-# Core
+## Core
 pyspark==3.5.1
 
 # Excel support
